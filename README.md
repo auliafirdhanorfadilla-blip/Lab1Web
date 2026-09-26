@@ -18,3 +18,7 @@ Berikutnya, klik Sign In With Your Browser <p>
 Lalu masuk melalui akun google <p>
 dan klik Autorized git-ecosystem
 ![Gambar 4](screenshoot/ss5.png)
+
+Dan setelahnya, muncul halaman seperti ini di GitHub <p>
+Itu tandanya kalian sudah berhasil membuat Git Version Control menggunakan GitHub
+![Gambar 5](screenshoot/ss5.png)
