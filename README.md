@@ -13,3 +13,8 @@ Ketikkan seperti gambar dibawah ini
 
 Setelah itu, akan muncul layar seperti ini :
 ![Gambar 4](screenshoot/ss4.png)
+
+Berikutnya, klik Sign In With Your Browser <p>
+Lalu masuk melalui akun google <p>
+dan klik Autorized git-ecosystem
+![Gambar 4](screenshoot/ss5.png)
